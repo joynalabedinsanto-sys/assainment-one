@@ -91,7 +91,7 @@ span{
 }
 /* card start */
 
-.pricingg{
+.pricing{
     width:1200px;
     margin:80px auto;
 }
@@ -113,7 +113,7 @@ span{
     font-size:18px;
 }
 
-.pricing-container{
+.pricing-containar{
     display: flex;
     justify-content:center;
     gap:150px;
